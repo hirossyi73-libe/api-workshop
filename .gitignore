@@ -1,0 +1,10 @@
+# APIキーを置くファイル（絶対にコミットしない）
+.env
+
+# 各演習の出力先
+output/
+images/
+invoices/
+
+.claude
+.DS_Store
